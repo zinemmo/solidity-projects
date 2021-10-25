@@ -6,7 +6,7 @@ import "./DateTime/DateTime.sol";
 // As the salary is based on USD we could use an Blockchain Oracle to retrieve the value pair of ETH/USD on the day to calculate the amount to send
 // However as we´re developing a Front-End and Back-End we can call API's from there and pass by argument reducing the amount of gas used
 
-contract SharedWallet {
+contract WageAdministration {
     address private owner;
     uint public contractBalance;
     uint private index = 0;
