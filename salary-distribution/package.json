@@ -1,0 +1,11 @@
+{
+  "name": "salary-distribution",
+  "version": "1.0.0",
+  "description": "DApp to automatically pay wages to employees in crypto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zinemmo",
+  "license": "ISC"
+}
